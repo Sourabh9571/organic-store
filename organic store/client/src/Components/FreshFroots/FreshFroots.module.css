@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.freshfoodbox{
+    background-color: #fafbf8;
+    /* position: relative; */
+}
+.leave{
+    top: -10%;
+    left: 42%;
+}
+.freshfoodbox div div div h1{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+.freshfoodbox div div div button{
+    background-color: #588a1f;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    color: white;
+    font-size: large;
+}
+.freshfoodbox div div div button:hover{
+    background-color: #8bd636;
+ 
+}
+.item {      
+    --background-overlay: '';
+    background-image:  url('../../../public/product11-free-img.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom right;
+}

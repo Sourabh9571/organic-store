@@ -1,0 +1,6 @@
+{
+    "username":"sourabh",
+    "password":"123",
+    "email":"sj321022@gamil.com",
+    
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.BestReviewsContainer{
+    background-color: #fafbf8;
+}
+
+.BestReviewsContainer h1 {
+font-family: 'Merriweather', serif;
+font-weight: 700;
+}
+.flexsecitem{
+    position: relative;
+    border-radius: 5px;
+    background-image: url("../../../public/sydney-rae-668606-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flexsecblueffect{
+    position: absolute;
+    z-index: 1;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.4); /* Semi-transparent light black overlay */
+  filter: blur(10px); /* Adjust the blur radius as needed */
+}
+.flexsecitem h1{
+    font-family: 'Merriweather', serif;
+font-weight: 700;
+}
+.flexsecitem button{
+    background-color: #588a1f;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+color: white;
+font-size: large;
+}

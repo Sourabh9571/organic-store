@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navlist li  :hover{
+  background-color: white !important;
+  outline: none !important;
+  transition: 1s;
+  color: green;
+}

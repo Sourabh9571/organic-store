@@ -1,0 +1,42 @@
+[{
+    "id":1,
+    "productname":"Assorted Coffee",
+    "price":500,
+    "category":"Groceries",
+    "image":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg",
+    "sale":true,
+    "oldprice":200,
+    "newprice":500
+
+},{
+    "id":2,
+    "productname":"Hand Sanitizer",
+    "price":500,
+    "category":"Groceries",
+    "image":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg",
+    "sale":true,
+    "oldprice":200,
+    "newprice":500
+
+},
+{
+    "id":3,
+    "productname":"Handpicked Red Chilies",
+    "price":500,
+    "category":"Groceries",
+    "image":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg",
+    "sale":true,
+    "oldprice":200,
+    "newprice":500
+
+},
+{
+    "id":4,
+    "productname":"Natural Extracted Edible oil",
+    "price":500,
+    "category":"Groceries",
+    "image":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg",
+    "sale":true,
+    "oldprice":200,
+    "newprice":500
+}]
